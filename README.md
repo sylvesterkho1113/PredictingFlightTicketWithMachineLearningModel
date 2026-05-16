@@ -107,8 +107,8 @@ We performed data cleaning and feature engineering:
 ### 1. Clone repo
 
 ```bash
-git clone https://github.com/chwankai/Flight-Ticket-Fares-Prediction-using-Machine-Learning.git
-cd air-ticket-price-prediction
+git clone https://github.com/sylvesterkho1113/PredictingFlightTicketWithMachineLearningModel.git
+cd PredictingFlightTicketWithMachineLearningModel
 ```
 
 ### 2. Install dependencies
@@ -122,7 +122,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 Open:
 
 ```
-Air_Ticket_Price_Prediction.ipynb
+1G_G6_Code.ipynb
 ```
 
 ---
